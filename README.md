@@ -79,7 +79,7 @@ ParisaraCycle/
 ## 📥 Clone the Repository
 
 ```bash
-git clone https://github.com/Aniruddh-777/Parisara-Cycle.git
+git clone https://github.com/nithinreddyav-cpu/ParisaraCycle.git
 ```
 
 ## ▶️ Open in Android Studio
@@ -141,24 +141,10 @@ During the development of this project, the following skills were improved:
 
 ---
 
-# 👨‍💻 Author
-
-## Aniruddh Nayak
-
-🔗 GitHub:
-👉 [https://github.com/Aniruddh-777](https://github.com/Aniruddh-777)
-
----
-
 # 📜 License
 
 This project is developed for **educational and internship purposes**.
 
 ---
 
-<div align="center">
-
 ### 🌱 “Ride Green, Save Nature” 🚴‍♂️
-
-</div>
-```
